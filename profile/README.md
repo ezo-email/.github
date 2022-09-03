@@ -4,4 +4,4 @@
 
 check out our [website](https://ezo.email) for more updates.
 
-**an [automation-co]() project**.
+**an [@automation-co](https://github.com/automation-co) project**.
